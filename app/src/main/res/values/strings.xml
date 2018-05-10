@@ -1,0 +1,65 @@
+<!--
+    Copyright 2018 Travis Spinelli
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources>
+    <string name="app_name">Champlain Compass</string>
+    <string name="orientation_theme">Orientation Theme</string>
+    <string name="fa_icon_people">&#xf0c0;</string>
+    <string name="fa_icon_home">&#xf015;</string>
+    <string name="fa_icon_car">&#xf1b9;</string>
+    <string name="fa_icon_schedule">&#xf073;</string>
+    <string name="fa_icon_file">&#xf15b;</string>
+    <string name="fa_icon_compass">&#xf14e;</string>
+    <string name="family_friends">Family &amp; Friends</string>
+    <string name="residential_students">Residential Students</string>
+    <string name="commuter_students">Commuter Students</string>
+    <string name="family_title_with_icon">&#xf0c0; Family &amp; Friends</string>
+    <string name="residential_student_title_with_icon">&#xf015; Residential Students</string>
+    <string name="commuter_student_title_with_icon">&#xf1b9; Commuter Students</string>
+    <string name="logo_image_description">Orientation Logo</string>
+    <string name="start_text">Click to Start</string>
+    <string name="connecting_text">Connecting...</string>
+    <string name="schedule_title">Schedule</string>
+    <string name="resource_title">Resources</string>
+    <string name="frequently_asked_questions_title">Frequently Asked Questions</string>
+    <string name="map_title">Campus Map</string>
+    <string name="files_title">Files</string>
+    <string name="faqs_title">FAQs</string>
+    <string name="buildings_title">Buildings</string>
+    <string name="schedule_title_with_icon">&#xf073; Schedule</string>
+    <string name="resource_title_with_icon">&#xf15b; Resources</string>
+    <string name="map_title_with_icon">&#xf14e; Campus Map</string>
+    <string name="loading_icon">&#xf110;</string>
+    <string name="title_activity_map">Map</string>
+    <string name="no_events">No events found for selected day.</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_start_time">Start Time:</string>
+    <string name="event_end_time">End Time:</string>
+    <string name="event_location">Location:</string>
+    <string name="event_presenter">Presenter:</string>
+    <string name="event_description">Description:</string>
+    <string name="arrow_right">&#xf054;</string>
+    <string name="presenter_title">Presenter</string>
+    <string name="presenter_job">Job Title:</string>
+    <string name="presenter_bio">Bio:</string>
+    <string name="add_to_calendar_button">&#xf271; Add Event to My Calendar</string>
+    <string name="map_marker_button">Directions &#62;</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="user_group">User Group</string>
+    <string name="use_orientation_themes">Use Orientation Theme Colors</string>
+    <string name="location_usage_permission">Permission to use Location Data</string>
+    <string name="refresh_data_button">Refresh Data</string>
+</resources>

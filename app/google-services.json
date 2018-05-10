@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "58946846858",
+    "firebase_url": "https://champlain-compass.firebaseio.com",
+    "project_id": "champlain-compass",
+    "storage_bucket": "champlain-compass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58946846858:android:55a58a69013c84fe",
+        "android_client_info": {
+          "package_name": "com.example.collegecompass.champlaincompass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58946846858-50oe1cjsiqqr3986iimmm36mosr9f83q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegecompass.champlaincompass",
+            "certificate_hash": "dae6502f385f6a85f17e9fe59c42e020bfce9595"
+          }
+        },
+        {
+          "client_id": "58946846858-o6mn00as6fhvae4mgdhp1icg70poac5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegecompass.champlaincompass",
+            "certificate_hash": "84fa37248bf07ce1ded0ec3879f72c913aea655a"
+          }
+        },
+        {
+          "client_id": "58946846858-q8bf5nf5k37sj6fj0eagdnhb7p5nrsn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8qwr4oa9jXDuXFQG71Fqf86Fg9OPlmEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58946846858-t8chpenmvgec0r4mglatmgbginm0p645.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.collegecompass.Champlain-Compass"
+              }
+            },
+            {
+              "client_id": "58946846858-q8bf5nf5k37sj6fj0eagdnhb7p5nrsn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
